@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js , php**
 
-- My Website [skytechical.pythonanywhere.com](skytechical.pythonanywhere.com)
-
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **shobhitsky1144@gmail.com**
