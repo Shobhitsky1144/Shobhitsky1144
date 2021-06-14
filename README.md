@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Civil Problem Resolution](https://github.com/Shobhitsky1144/CivilProbPHP)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mern stack**
 
 - My Website [skytechical.pythonanywhere.com](skytechical.pythonanywhere.com)
 
@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shobhitsky1144&show_icons=true&locale=en&layout=compact" alt="menub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&locale=en" alt="menub" /></p>
+
