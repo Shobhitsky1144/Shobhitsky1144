@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shobhit Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Civil Problem Resolution](https://github.com/Shobhitsky1144/CivilProbPHP)
+- 🔭 I’m currently working on Mern stack
 
 - 🌱 I’m currently learning **Mern stack**
 
 - My Website [skytechical.pythonanywhere.com](skytechical.pythonanywhere.com)
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **django,mern stack**
 
 - 📫 How to reach me **shobhitsky1144@gmail.com**
 
