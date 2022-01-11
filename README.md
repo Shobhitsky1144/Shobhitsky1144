@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern stack**
 
-- My Website [skytechical.pythonanywhere.com](skytechical.pythonanywhere.com)
+- My Website
 - Portfolio-https://shobhitportfolio.netlify.app/
 
 - 💬 Ask me about **django,mern stack**
