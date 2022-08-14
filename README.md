@@ -1,9 +1,8 @@
-<a href="https://github.com/Shobhitsky1144/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Shobhitsky1144/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=blockchain" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhitsky1144&langs_count=8)](https://github.com/Shobhitsky1144/github-readme-stats)
+
+
+
+//
 
 ![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
 
