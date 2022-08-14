@@ -1,6 +1,11 @@
 ![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhitsky1144)](https://github.com/Shobhitsky1144/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=blockchain)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=Blockchain-solidity-lottery-project)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=NewsApp-ReactNative)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=Mern-Stack-Nsspl)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=pizza-shop-mern-stack)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=Reactjs-firebase-Ecommerce-web-app)](https://github.com/Shobhitsky1144/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Shobhit Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
