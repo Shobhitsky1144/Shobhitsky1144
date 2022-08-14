@@ -1,5 +1,6 @@
 ![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhitsky1144)](https://github.com/Shobhitsky1144/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shobhitsky1144)](https://github.com/Shobhitsky1144/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Shobhit Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
