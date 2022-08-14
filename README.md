@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Shobhitsky1144/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=blockchain" />
 </a>
 
 ![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
