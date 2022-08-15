@@ -3,14 +3,14 @@
 <h1 align="center">Hi 👋, I'm Shobhit Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on Mern stack
+- 🔭 I’m currently working on Mern stack,blockchain,react native
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **Blockchain,React Native**
 
 - My Website
 - Portfolio-https://shobhitportfolio.netlify.app/
 
-- 💬 Ask me about **django,mern stack**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **shobhitsky1144@gmail.com**
 
