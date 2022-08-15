@@ -20,9 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhitsky1144&langs_count=8)](https://github.com/Shobhitsky1144/github-readme-stats)
                
-![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
+![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical&count_private=true) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&count_private=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=blockchain)](https://github.com/Shobhitsky1144/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=Blockchain-solidity-lottery-project)](https://github.com/Shobhitsky1144/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=NewsApp-ReactNative)](https://github.com/Shobhitsky1144/github-readme-stats)
