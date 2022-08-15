@@ -22,7 +22,7 @@
                
 ![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&show_icons=true&theme=radical) 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhitsky1144&count_private=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=blockchain)](https://github.com/Shobhitsky1144/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=Blockchain-solidity-lottery-project)](https://github.com/Shobhitsky1144/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobhitsky1144&repo=NewsApp-ReactNative)](https://github.com/Shobhitsky1144/github-readme-stats)
