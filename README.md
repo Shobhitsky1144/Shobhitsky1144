@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React Js,Blockchain NFT**
+- 🔭 I’m currently working on **Generative AI ,AI Agents and Blockchain NFT**
 
-- 🌱 I’m currently learning **Blockchain NFT ,React native**
+- 🌱 I’m currently learning **Generative AI, Blockchain NFT**
 
 - 👨‍💻 All of my projects are available at [https://shobhitportfolio.netlify.app/](https://shobhitportfolio.netlify.app/)
 
